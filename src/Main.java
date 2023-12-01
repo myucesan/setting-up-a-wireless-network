@@ -16,6 +16,8 @@ class WirelessNetwork {
      *     edges[m].
      */
     WirelessNetwork setUpTheNetwork(int n, int m, int b, Edge[] edges) {
+
+        // either prim or kruskal
         return new WirelessNetwork(-999,-999);
     }
 }
